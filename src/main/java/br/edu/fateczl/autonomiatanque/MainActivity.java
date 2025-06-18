@@ -1,7 +1,7 @@
 package br.edu.fateczl.autonomiatanque;
 /*
-@author: Alvaro Dias
-RA: 1110482223004
+@author: Beatriz Silva
+RA: 1110482213028
  */
 import android.os.Bundle;
 import android.view.View;
