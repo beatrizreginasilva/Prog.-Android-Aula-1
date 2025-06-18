@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutonomiaTanque</string>
+    <string name="qtdLitro">Tanque (total litro)</string>
+    <string name="consumoMedio"> Consumo(km/l)</string>
+    <string name="Calcular"> Calcular </string>
+    <string name="qtdAtual"> QuantidadeAtual</string>
+    </resources>
